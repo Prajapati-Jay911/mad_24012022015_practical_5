@@ -26,7 +26,7 @@ This practical focuses on creating a user authentication system with the followi
 ## Project Structure
 
 ```
-app/src/main/java/com/bytemap/mad_24172012068_practical5/
+app/src/main/java/com/bytemap/mad_24012022015_practical5/
 ├── MainActivity.kt                 # Main activity entry point
 ├── AppNavigation.kt               # Navigation configuration
 └── screen/components/
@@ -117,6 +117,6 @@ This practical demonstrates:
 
 ---
 
-**Student**: Pratham (24172012068)  
+**Student**: Pratham (24012022015)  
 **Course**: Mobile Application Development  
 **Practical**: 5 - Jetpack Compose Navigation
